@@ -1,0 +1,22 @@
+six
+google-api-python-client 
+kaggle numpy oauth2client 
+pandas 
+psutil 
+py-cpuinfo 
+scipy 
+tensorflow-hub 
+tensorflow-model-optimization 
+tensorflow-datasets 
+gin-config 
+tf_slim 
+Cython 
+matplotlib 
+pyyaml 
+opencv-python-headless 
+Pillow 
+pycocotools 
+seqeval 
+sentencepiece 
+sacrebleu 
+immutabledict
